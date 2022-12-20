@@ -1,4 +1,4 @@
 # UAS MOBAPP
 
-Nama : Satria Pinandita Abyatarsyah
+Nama : Satria Pinandita Abyatarsyah \
 NIM  : 2000514
